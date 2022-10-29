@@ -1021,7 +1021,6 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_15: 1684639484
-      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_26: 693593755
       png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_23: 994665961
       png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_19: -1426014180
       png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_3: 23273506
@@ -1031,6 +1030,7 @@ TextureImporter:
       png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_35: -1123144604
       png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_5: -46073142
       png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_18: -415355609
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_6: 2110078658
       png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_33: -365092259
       png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_20: -672881790
       png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_21: 531188853
@@ -1059,8 +1059,8 @@ TextureImporter:
       png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_0: -505395478
       png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_24: 710713865
       png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_25: -907034734
-      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_6: 2110078658
       png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_14: -905846283
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_26: 693593755
       png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_13: 1412132448
   spritePackingTag: 
   pSDRemoveMatte: 0
