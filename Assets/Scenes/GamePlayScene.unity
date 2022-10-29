@@ -237,7 +237,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40d191d7d47129241968f40b844d870e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 7409629361625765815, guid: c309e4795a1a3fd4bbc991fee03756ce, type: 3}
+  button: {fileID: 1166725931}
+  Man_Player: {fileID: 7409629361625765815, guid: c309e4795a1a3fd4bbc991fee03756ce, type: 3}
+  Horse: {fileID: 3069056171914597417, guid: 6d36be9747915ea49b1969edc01384c5, type: 3}
+  Bird: {fileID: 1830513047118687055, guid: 389792b197dd45e4ca1b5a5e0972abc8, type: 3}
+  Lion: {fileID: 1382778004260695163, guid: 4a3b6f904d932884a8d08c85f2aa25a4, type: 3}
+  Snake: {fileID: 2647628513650305127, guid: f2e3f097c27f88c4c9ebe5f9a8acd332, type: 3}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -397,6 +402,7 @@ MonoBehaviour:
   m_LightCookieSprite: {fileID: 0}
   m_DeprecatedPointLightCookieSprite: {fileID: 0}
   m_LightOrder: 0
+  m_AlphaBlendOnOverlap: 0
   m_OverlapOperation: 0
   m_NormalMapDistance: 3
   m_NormalMapQuality: 2
@@ -550,13 +556,13 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 174672914}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
+      - m_Target: {fileID: 174672919}
+        m_TargetAssemblyTypeName: StartButton, Assembly-CSharp
+        m_MethodName: On_Click
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -849,6 +855,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_SendPointerHoverToParent: 1
   m_HorizontalAxis: Horizontal
   m_VerticalAxis: Vertical
   m_SubmitButton: Submit
