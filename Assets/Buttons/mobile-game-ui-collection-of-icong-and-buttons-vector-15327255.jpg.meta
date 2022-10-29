@@ -1,0 +1,1114 @@
+fileFormatVersion: 2
+guid: 5e2a7cea78748394f911da7d83fed408
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 984
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beefd1ff32d41fb4a9ddd5c0c11b1f92
+      internalID: -811496302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 984
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd38590a1c7c56f4caa083d7884cc1b6
+      internalID: 31785194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 984
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8c7bbde3a5a184095077c14a360c16
+      internalID: 602614018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 984
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdd7a2457bf07441b92d374e26422a0
+      internalID: 1965300936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 888
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8571c9f4a3079a40b93a424a70bd987
+      internalID: -1792434625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 888
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de28872a0f7e724ab22822fe1fd8b3c
+      internalID: -1975881898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 888
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5977b1ef22fb34bab6070d7407651d
+      internalID: -285485703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_7
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 888
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883e001cbc2b4bc42bee5b221d9f9d66
+      internalID: 1322693408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f84920a3eb41d346babc5e2a168c238
+      internalID: -247538151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_9
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 792
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e682fabb6d949745a0ab74f896f61ee
+      internalID: -608673417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 792
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b324537d0a31ec458dc7ca7c71f169c
+      internalID: -452463851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_11
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 792
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ff5d6f96f6fdf4686d83c5659e4db3
+      internalID: -560132982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 696
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4505dbb509ff2f429c8ad5ef77c4196
+      internalID: -369473410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 696
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5c662587f3b5b48b70aa49de01dc0d
+      internalID: -2102439137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 696
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893b4a8bb9f01ab48bd5782ebbc71ce9
+      internalID: -673162808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_15
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 696
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e039de3baeebe41aaecebb155e30c3
+      internalID: 1457501724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee03efa49f47414a83e167008b7d13f
+      internalID: -1955366451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 600
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b68f6ea7e5ebb747b8d35c8fbf830be
+      internalID: 1013072618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_18
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 600
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa02c0870977f2945b2b9a009a872d87
+      internalID: 2137196883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_19
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 600
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c9f70c4fc70f24dab570a95c48f939
+      internalID: -681297575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6033b30f7049d04d8979d1ff19ed177
+      internalID: -1513163982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_21
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 504
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612545cfcf273fb4fb189b5e813760fd
+      internalID: 1750499737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 504
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c15aabf84c7d841903122e2fa32d3e
+      internalID: 1845284102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_23
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 504
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad5c81e675e9894b8647d77decc0788
+      internalID: -1749659282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f9fd3fed99f3349af956d91c0c6187
+      internalID: -810155551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_25
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 408
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ccc57806adb2140abf6022b3f89955
+      internalID: 986865836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_26
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 408
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7f27d5031ef0249963fa51ae1c7ec1
+      internalID: -1498087296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_27
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 408
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8696f23edd8571b449c34b5d04bde21c
+      internalID: -1326350335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee3b7d60b4f990419d2f1940288603b
+      internalID: 1745420430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_29
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 312
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130e988f547d0c14fb99d96e33f66574
+      internalID: -330827512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_30
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 312
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef255ed5d35fd2a41846a3bcaf5a6a3d
+      internalID: -1312568708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_31
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 312
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c4c4423cfc4c1418f3f23e3b69ac70
+      internalID: 2132966098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a0f60f32f68644598828e2e0d79369
+      internalID: 674200163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_33
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 216
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506781d679c222a4a890f3249334c10d
+      internalID: 572587261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_34
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 216
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a468685347b5d2044a140565ecaa04cb
+      internalID: -1178866660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_35
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 216
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db1e278b0dbbe545b54e47bf7e407a7
+      internalID: 1839140250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d23b03c2ce380b4990035f30d5e18a4
+      internalID: -1562115566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_37
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 120
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da88c1bc1dff5e249924cb8f1252cab7
+      internalID: -2128826868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_38
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 120
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee99fced3852f54da630a7dda1cc04d
+      internalID: -447443671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_39
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 120
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332e13b35fdb47049b7892aff36fd67d
+      internalID: 1908562264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09774caefb3b7d64ab1a863bf91384b3
+      internalID: -759384742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_41
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 24
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43d36c8ac2b11b43bf0bd9b30e40e43
+      internalID: 1939087591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_42
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 24
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4390800ddb9b994bac4a6e942fc8f3e
+      internalID: -1656936688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_43
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 24
+        width: 250
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49d3c1415e9e8144acd597fae06e2dc
+      internalID: -130354083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_24: -810155551
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_1: 31785194
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_5: -1975881898
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_19: -681297575
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_42: -1656936688
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_25: 986865836
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_8: -247538151
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_38: -447443671
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_28: 1745420430
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_35: 1839140250
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_10: -452463851
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_39: 1908562264
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_26: -1498087296
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_20: -1513163982
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_12: -369473410
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_22: 1845284102
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_34: -1178866660
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_16: -1955366451
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_36: -1562115566
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_0: -811496302
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_29: -330827512
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_18: 2137196883
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_9: -608673417
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_43: -130354083
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_14: -673162808
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_31: 2132966098
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_15: 1457501724
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_13: -2102439137
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_33: 572587261
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_3: 1965300936
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_4: -1792434625
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_2: 602614018
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_41: 1939087591
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_23: -1749659282
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_11: -560132982
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_17: 1013072618
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_32: 674200163
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_30: -1312568708
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_40: -759384742
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_6: -285485703
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_7: 1322693408
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_21: 1750499737
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_27: -1326350335
+      mobile-game-ui-collection-of-icong-and-buttons-vector-15327255_37: -2128826868
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

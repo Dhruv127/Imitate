@@ -1,0 +1,1070 @@
+fileFormatVersion: 2
+guid: 78eaa648de2c95843b2697c7049a91e6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 446.66666
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b6be2378511c84694439df30e93257
+      internalID: -505395478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 446.66666
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d889a0b196d36348a0387171434721b
+      internalID: -500878610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 446.66666
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45a8e4cb51cb1848afff6729a34abb0
+      internalID: 1749188115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 446.66666
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5be92e727e7cb46a03287a1be1ca10
+      internalID: 23273506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_4
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 446.66666
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d4493f142ea60408d66bba0c555075
+      internalID: 2075047721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_5
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 446.66666
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b004b9103fa8642b9b36c196bfb83a
+      internalID: -46073142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_6
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 446.66666
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c6e86873ea04045a3aa6023aecf2ea
+      internalID: 2110078658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 357.66666
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a748cfff0e3264f858a652c57eca53
+      internalID: 1305350914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 357.66666
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85a60aaa871bdf4c8a8d4abe2fa02db
+      internalID: -268847676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_9
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 357.66666
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74100b8526c2b0469b0f3184859a5cc
+      internalID: 800189462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_10
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 357.66666
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0b4070dc088f34eb1ac146e9d9b2d7
+      internalID: -448712257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_11
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 357.66666
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2288513a5d2a07a489a0f96dad23edec
+      internalID: -42751195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_12
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 357.66666
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfa8cb40d0d7aa4fbf0b24b98dd325c
+      internalID: 295467873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_13
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 357.66666
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e912bfbf735801f4ab7ebd4eb757cb33
+      internalID: 1412132448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268.66666
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5bbb0511fe8b24ba352249b68e64cc
+      internalID: -905846283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_15
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 268.66666
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0f652c66851744991e464e852d631e
+      internalID: 1684639484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_16
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 268.66666
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6755609c0802d5438fd8a075f6d677b
+      internalID: -710605976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_17
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 268.66666
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f7adbfdb0262e49af04dd55cfe6bd1
+      internalID: -1048616786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_18
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 268.66666
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3f45cc5daa8884e937f6544558edae
+      internalID: -415355609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_19
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 268.66666
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1974df9f952c35b4ab52aef8aa9da6a6
+      internalID: -1426014180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_20
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 268.66666
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba772d7d37b0f1f47bfd551ed5cac466
+      internalID: -672881790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179.66666
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481e31e985a6bea4793ac54da9ccfa02
+      internalID: 531188853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_22
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 179.66666
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23672bc12f085e84a93628d88d2d34f3
+      internalID: -413697726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_23
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 179.66666
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e895fec0ab867489969ba7289ad381
+      internalID: 994665961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_24
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 179.66666
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c036d7b9e0d5d4c9f7a62a0b103111
+      internalID: 710713865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_25
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 179.66666
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2cc424007c62b4f9a350a594078384
+      internalID: -907034734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_26
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 179.66666
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad161f708a48c7f4d98a581c83bd4173
+      internalID: 693593755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_27
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 179.66666
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a483ff81aa3d383468316cec47fe551a
+      internalID: -834347262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90.666664
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77add74ee43595d4ebb57cf464701f02
+      internalID: -2117587467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_29
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 90.666664
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e912a22240a3eb24ea34e99983139a16
+      internalID: 1706761756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_30
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 90.666664
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539b44d3309ca334d9335ec3368fa448
+      internalID: -126297144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_31
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 90.666664
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0beae2412905e459cd35e28419c6b3
+      internalID: 1649703518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_32
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 90.666664
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79be05c48b1eaf74ba932a5a018d1b83
+      internalID: -1810665284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_33
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 90.666664
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd99ccf0f1fa7d41b0070e89e5d700c
+      internalID: -365092259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_34
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 90.666664
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161016b8e0b736a4690ff0888a6a0a15
+      internalID: -1176526347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.6666641
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ed49032b93c354e9fd598aead0e794
+      internalID: -1123144604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_36
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1.6666641
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d396b714f461243bac0551819651ab
+      internalID: -1166207262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_37
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1.6666641
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de56ed393ece6444871db9986f3f058
+      internalID: -1219734732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_38
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1.6666641
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c850333b4baa484e80f3b3349a9955f
+      internalID: -2002999721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_39
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1.6666641
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c1cdde3443e124db6b6c863cee0525
+      internalID: 1976411728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_40
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1.6666641
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5e044dedd37334cbc5e3207895b04c
+      internalID: -574082562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_41
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1.6666641
+        width: 131.42857
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d7e60e9d50e7e4295e133afcbd177c
+      internalID: 12730342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_15: 1684639484
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_26: 693593755
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_23: 994665961
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_19: -1426014180
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_3: 23273506
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_22: -413697726
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_39: 1976411728
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_10: -448712257
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_35: -1123144604
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_5: -46073142
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_18: -415355609
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_33: -365092259
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_20: -672881790
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_21: 531188853
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_32: -1810665284
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_9: 800189462
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_41: 12730342
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_4: 2075047721
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_11: -42751195
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_30: -126297144
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_17: -1048616786
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_12: 295467873
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_27: -834347262
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_7: 1305350914
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_37: -1219734732
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_8: -268847676
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_16: -710605976
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_28: -2117587467
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_31: 1649703518
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_38: -2002999721
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_34: -1176526347
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_40: -574082562
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_36: -1166207262
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_2: 1749188115
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_29: 1706761756
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_1: -500878610
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_0: -505395478
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_24: 710713865
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_25: -907034734
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_6: 2110078658
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_14: -905846283
+      png-transparent-horse-sprite-pixel-art-animation-sprite-blue-text-wildlife_13: 1412132448
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
