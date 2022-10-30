@@ -140,11 +140,12 @@ public class StartButton : MonoBehaviour
   scorePoints.text = (invisible.transform.position.x-397).ToString("0");
   score=int.Parse(scorePoints.text);
    
-  if(score>1000)
+  if(score>5000)
   {
     if(CurrentScene=="Level 2")
     {
     SceneManager.LoadScene("level 3");
+    CurrentScene="Level 3";
     }
    
   }
