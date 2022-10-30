@@ -9,12 +9,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2260834278586327060}
-  - component: {fileID: 2707573779057064921}
   - component: {fileID: 5758860387916692601}
   - component: {fileID: -3644701129766928544}
   - component: {fileID: 7267839494585521700}
   - component: {fileID: 6100889028328585287}
-  - component: {fileID: -5677386082758817559}
   - component: {fileID: 16958078470650398}
   m_Layer: 0
   m_Name: Boulder
@@ -38,22 +36,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!70 &2707573779057064921
-CapsuleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 152518520782096916}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: -0.09562821, y: -0.21712622}
-  m_Size: {x: 2.4525166, y: 2.5014384}
-  m_Direction: 0
 --- !u!212 &5758860387916692601
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -131,8 +113,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6971e42896efe458abf0c21ea427a342, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxTime: 1
+  maxTimeBoulder: 1
+  maxTimeTunnel: 1
+  maxTimeHyena: 1
+  maxTimePond: 1
+  maxTimeTree: 1
   Boulder: {fileID: 0}
+  tunnel: {fileID: 0}
+  pond: {fileID: 0}
+  tree: {fileID: 0}
+  Hyena: {fileID: 0}
 --- !u!50 &6100889028328585287
 Rigidbody2D:
   serializedVersion: 4
@@ -154,32 +144,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!61 &-5677386082758817559
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 152518520782096916}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.56, y: 2.56}
-    newSize: {x: 9, y: 9}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 2.56, y: 2.56}
-  m_EdgeRadius: 0
 --- !u!70 &16958078470650398
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -194,5 +158,5 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
-  m_Size: {x: 2.5599997, y: 2.56}
+  m_Size: {x: 2.5599997, y: 2.6110656}
   m_Direction: 0
