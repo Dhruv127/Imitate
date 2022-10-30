@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -8282,10 +8282,10 @@ TextureImporter:
       spritesheet_255: -1804320868
       spritesheet_4: -1350780284
       spritesheet_39: 1694641924
-      spritesheet_370: 881499713
       spritesheet_189: 283805802
-      spritesheet_237: 327365550
+      spritesheet_370: 881499713
       spritesheet_291: -1817569106
+      spritesheet_237: 327365550
       spritesheet_350: -1630932345
       spritesheet_144: 1038371144
       spritesheet_52: -549214575
@@ -8309,10 +8309,10 @@ TextureImporter:
       spritesheet_30: -1387099191
       spritesheet_2: -1485461337
       spritesheet_91: 767522332
-      spritesheet_140: -26825825
+      spritesheet_113: 184219903
       spritesheet_129: 604222463
       spritesheet_265: -214159942
-      spritesheet_113: 184219903
+      spritesheet_140: -26825825
       spritesheet_239: -2022933750
       spritesheet_157: 1978960022
       spritesheet_210: 154058739
@@ -8360,14 +8360,14 @@ TextureImporter:
       spritesheet_89: 938927061
       spritesheet_63: -1654222902
       spritesheet_88: -2052359395
-      spritesheet_283: 633338821
       spritesheet_257: 1473593925
+      spritesheet_283: 633338821
       spritesheet_271: -914642395
       spritesheet_15: -1400508174
-      spritesheet_366: 1808179254
-      spritesheet_311: 1638118756
       spritesheet_338: -2094295975
+      spritesheet_311: 1638118756
       spritesheet_340: -435800625
+      spritesheet_366: 1808179254
       spritesheet_321: -1141322214
       spritesheet_327: -1911425826
       spritesheet_105: -1518028617
@@ -8487,8 +8487,8 @@ TextureImporter:
       spritesheet_268: -225786745
       spritesheet_10: -1933654473
       spritesheet_139: -1328073083
-      spritesheet_364: -2037879015
       spritesheet_314: -702742724
+      spritesheet_364: -2037879015
       spritesheet_191: -53708651
       spritesheet_223: 1312860885
       spritesheet_262: 834953830

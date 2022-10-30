@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class StartButton : MonoBehaviour
 {
@@ -12,7 +11,6 @@ public class StartButton : MonoBehaviour
         public GameObject Bird;
           public GameObject Lion;
             public GameObject Snake;
-             GameObject scorelevel1;
     private GameObject Mp;
     private GameObject Bp;
     private GameObject Sp;
@@ -130,14 +128,5 @@ public class StartButton : MonoBehaviour
        Lp.SetActive(true);
       Current_player="LION";
     }
-void Update()
-{
-  GameObject obj=scorelevel1;
-   Score cm =obj.GetComponent<Score>();
-   
-  if(cm.score>1000)
-  {
-    SceneManager.LoadScene("level2");
-  }
-}
+
 }
