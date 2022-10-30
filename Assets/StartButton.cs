@@ -2,22 +2,17 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using TMPro;
 
 public class StartButton : MonoBehaviour
 {
-   public TMP_Text scorePoints;
-    public static int score=0;
-   bool isOUT=false;
   string Current_player="MAN";
     public GameObject button;
-    public GameObject invisible;
     public GameObject Man_Player;
       public GameObject Horse;
         public GameObject Bird;
           public GameObject Lion;
             public GameObject Snake;
-             
+             GameObject scorelevel1;
     private GameObject Mp;
     private GameObject Bp;
     private GameObject Sp;
@@ -29,7 +24,6 @@ public class StartButton : MonoBehaviour
     {
        Mp=Instantiate(Man_Player, new Vector3(0, 0, -1), Quaternion.identity);
         button.SetActive(false);
-        
     }
     public void On_ClickHorse()
     {
@@ -136,17 +130,14 @@ public class StartButton : MonoBehaviour
        Lp.SetActive(true);
       Current_player="LION";
     }
- void Update()
+void Update()
 {
-  invisible.transform.position = invisible.transform.position + new Vector3(10f * Time.deltaTime, 0, 0);
-  scorePoints.text = (invisible.transform.position.x).ToString("0");
-   score=int.Parse(scorePoints.text);
+  GameObject obj=scorelevel1;
+   Score cm =obj.GetComponent<Score>();
    
-  if(score>1000)
+  if(cm.score>1000)
   {
-    SceneManager.LoadScene("level 2");
-    score=1000;
-    invisible.transform.position+=new Vector3(1000, 0, 0);
+    SceneManager.LoadScene("level2");
   }
 }
 }
