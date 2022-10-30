@@ -10,14 +10,14 @@ public class StartButton : MonoBehaviour
     public static int score=0;
    bool isOUT=false;
   string Current_player="MAN";
-    public GameObject button;
+    
     public GameObject invisible;
     public GameObject Man_Player;
       public GameObject Horse;
         public GameObject Bird;
           public GameObject Lion;
             public GameObject Snake;
-             
+    private string CurrentScene="Level 2";
     private GameObject Mp;
     private GameObject Bp;
     private GameObject Sp;
@@ -25,11 +25,9 @@ public class StartButton : MonoBehaviour
     private GameObject Lp;
     // Start is called before the first frame update
    
-     public void On_Click()
+     void Start()
     {
        Mp=Instantiate(Man_Player, new Vector3(0, 0, -1), Quaternion.identity);
-        button.SetActive(false);
-        
     }
     public void On_ClickHorse()
     {
@@ -138,15 +136,17 @@ public class StartButton : MonoBehaviour
     }
  void Update()
 {
-  invisible.transform.position = invisible.transform.position + new Vector3(10f * Time.deltaTime, 0, 0);
-  scorePoints.text = (invisible.transform.position.x).ToString("0");
-   score=int.Parse(scorePoints.text);
+  invisible.transform.position = invisible.transform.position + new Vector3(100f * Time.deltaTime, 0, 0);
+  scorePoints.text = (invisible.transform.position.x-397).ToString("0");
+  score=int.Parse(scorePoints.text);
    
   if(score>1000)
   {
-    SceneManager.LoadScene("level 2");
-    score=1000;
-    invisible.transform.position+=new Vector3(1000, 0, 0);
+    if(CurrentScene=="Level 2")
+    {
+    SceneManager.LoadScene("level 3");
+    }
+   
   }
 }
 }
