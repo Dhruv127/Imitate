@@ -593,6 +593,25 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!1 &1363509599 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3936209006516034558, guid: a6ad6f5279ee2704a993ebd9ee6f1f39, type: 3}
+  m_PrefabInstance: {fileID: 166337135}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1363509604
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1363509599}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6971e42896efe458abf0c21ea427a342, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxTime: 10
+  Boulder: {fileID: 152518520782096916, guid: bba09c1c3f5f9489aa7d3be3afe2eb9d, type: 3}
 --- !u!1 &1794168646 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3936209007487173831, guid: a6ad6f5279ee2704a993ebd9ee6f1f39, type: 3}
