@@ -104,7 +104,7 @@ public class StartButton : MonoBehaviour
         Horse.transform.position=Lion.transform.position;
         Lp.SetActive(false);
       }
-       Sp=Instantiate(Snake, new Vector3(0, 0, -1), Quaternion.identity);
+       Sp=Instantiate(Snake, new Vector3(0, -3, 0), Quaternion.identity);
        Sp.SetActive(true);
       Current_player="SNAKE";
     }
